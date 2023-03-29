@@ -1,4 +1,6 @@
-Version information:
+static analysis tool for Hyperledger Fabric smart contracts (chaincode) aimed at increase efficiency of blockchain
+
+information:
 1.	Fabric 2.2
 a.	curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.2.5 1.5.2
 b.	open nano ~/.zshrc add path there.
