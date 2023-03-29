@@ -1,4 +1,6 @@
 static analysis tool for Hyperledger Fabric smart contracts (chaincode) aimed at increase efficiency of blockchain
+My research area expanded my software capabilities in the blockchain field. I created an efficient, private blockchain-based personal data vault to protect users' most sensitive data (e.g., health records and identification documents). I was able to overcome some of the blockchain's well-known inefficiencies by developing a predictive model for pre-fetching expected user data using Python libraries such as pandas, numpy, keras, and tensorflow. caliper benchmarks tools, as well as experimenting with the latest version of IBM's Hyperledger fabric, to test efficiency. I primarily used GO, Hyperledger Fabric, Prometheus, and Docker.
+
 
 information:
 1.	Fabric 2.2
